@@ -1,0 +1,12 @@
+.container {
+    margin-top: 50px;
+  }
+  
+  .task-item {
+    margin-bottom: 20px;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
