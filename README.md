@@ -1,4 +1,4 @@
-# Task-Manager Website
+# Task-Manager Website  Visit - https://rajnsrivastava.github.io/Task-Manager/
 
 The application should provide a user-friendly interface with features such as task creation, editing, and deletion. Additionally, users should be able to mark tasks as complete, set due dates, and prioritize tasks based on their importance.
 
@@ -20,5 +20,3 @@ The application should provide a user-friendly interface with features such as t
 * CSS: Apply styles to the HTML elements to achieve an aesthetically pleasing design.
 * JavaScript: Implement interactivity, handle user input, and perform CRUD (create, read, update, delete) operations on tasks.
 * Bootstrap: Utilize Bootstrap's pre-built CSS and JavaScript components to enhance the application's responsiveness and styling.
-
-https://rajnsrivastava.github.io/Task-Manager/
